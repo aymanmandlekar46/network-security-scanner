@@ -59,3 +59,16 @@ py -m pip install python-nmap flask reportlab
 **Ayman Mandlekar**
 
 Cybersecurity Enthusiast | Python | Network Security
+## Screenshots
+
+### Security Dashboard
+![Security Dashboard](screenshots/dashboard.png)
+
+### Nmap Scan
+![Nmap Scan](screenshots/scan.png)
+
+### Security Findings
+![Security Findings](screenshots/findings.png)
+
+### Security Report
+![Security Report](screenshots/report.png)
